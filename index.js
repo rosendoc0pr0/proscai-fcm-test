@@ -38,7 +38,7 @@ app.post("/send", function (req, res) {
   const message = {
     notification: {
       title: "Proscai Push Notification",
-      body: 'Proscai '
+      body: 'Push Notification from Proscai'
     },
     topic: topicName,
   };
