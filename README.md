@@ -1,1 +1,0 @@
-# proscai-fcm-test
